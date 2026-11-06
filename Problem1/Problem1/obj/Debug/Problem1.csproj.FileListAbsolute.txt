@@ -1,0 +1,13 @@
+D:\LTHDT\lab9\Problem1\Problem1\bin\Debug\Problem1.exe.config
+D:\LTHDT\lab9\Problem1\Problem1\bin\Debug\Problem1.exe
+D:\LTHDT\lab9\Problem1\Problem1\bin\Debug\Problem1.pdb
+D:\LTHDT\lab9\Problem1\Problem1\obj\Debug\Problem1.csproj.AssemblyReference.cache
+D:\LTHDT\lab9\Problem1\Problem1\obj\Debug\Problem1.Quan.resources
+D:\LTHDT\lab9\Problem1\Problem1\obj\Debug\Problem1.Properties.Resources.resources
+D:\LTHDT\lab9\Problem1\Problem1\obj\Debug\Problem1.csproj.GenerateResource.cache
+D:\LTHDT\lab9\Problem1\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+D:\LTHDT\lab9\Problem1\Problem1\obj\Debug\Problem1.exe
+D:\LTHDT\lab9\Problem1\Problem1\obj\Debug\Problem1.pdb
+D:\LTHDT\lab9\Problem1\Problem1\obj\Debug\Problem1.exe.config
+D:\LTHDT\lab9\Problem1\Problem1\obj\Debug\Problem1.frmSapXep.resources
+D:\LTHDT\lab9\Problem1\Problem1\obj\Debug\Problem1.frmTimKiem.resources
